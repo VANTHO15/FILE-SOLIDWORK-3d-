@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"CL-13-PHK";"";
+"MATERIAL";"Aluminum";"";
+"SUPPLIER";"Carr Lane";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-03062019-035237";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Palm-Grip Hand Knobs (Aluminum), Tapped, Inch";"";
+"TraceParts.InstanceId";"90-03062019-03523762LJ7JR0STQ1VGFIKT27T2V6A";"";
+"TraceParts.PartTitle";"Palm-Grip Hand Knobs (Aluminum), Tapped, Inch";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"";"";

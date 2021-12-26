@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"CL-400-PTPB";"";
+"MATERIAL";"Cast Iron";"";
+"SUPPLIER";"Carr Lane";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-28052019-031845";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Square Pallet Tooling Plates – Blank (400mm), Universal";"";
+"TraceParts.InstanceId";"90-28052019-0318454XKNCSHYC9MXC5GXQ1GMZQM7F";"";
+"TraceParts.PartTitle";"Square Pallet Tooling Plates – Blank (400mm), Universal";"";
+"bpn_i";"400mm";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"CARRLANE:90-28052019-031845";"";
